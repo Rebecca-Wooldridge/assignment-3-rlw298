@@ -1,0 +1,18 @@
+---
+title: "Welcome to my website!"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Rebecca Wooldridge
+
+**Github account** : https://github.com/Rebecca-Wooldridge
+
+# Xiaoying Liu 
+
+**Github account**: https://github.com/Xiao-Ying-Liu
+
+![Welcome image](https://image.shutterstock.com/image-vector/welcome-calligraphic-inscription-smooth-lines-260nw-1721907832.jpg)
