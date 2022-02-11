@@ -1,17 +1,26 @@
 ---
-title: "Contact"
+title: "Contact me"
 output: html_document
 ---
-<br>
-
-<font size="8"> **Email**: rlw298@cornell.edu </font>
-
-<br>
-<br>
-
-<font size="8"> **Twitter**: [RebeccaWooldr14](https://twitter.com/RebeccaWooldr14) </font>
+<style type="text/css">
+h1.title {
+  font-size: 60px;
+  color: Black;
+}
+</style>
 
 <br>
 <br>
 
-<font size="8"> **Github**: [Rebecca-Wooldridge](https://github.com/Rebecca-Wooldridge) </font>
+
+<font size="7"> **Email**: rlw298@cornell.edu </font>
+
+<br>
+<br>
+
+<font size="7"> **Twitter**: [RebeccaWooldr14](https://twitter.com/RebeccaWooldr14) </font>
+
+<br>
+<br>
+
+<font size="7"> **Github**: [Rebecca-Wooldridge](https://github.com/Rebecca-Wooldridge) </font>
