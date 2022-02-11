@@ -1,11 +1,17 @@
 ---
-title: "contact"
+title: "Contact"
 output: html_document
 ---
+<br>
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+<font size="8"> **Email**: rlw298@cornell.edu </font>
 
-## R Markdown
+<br>
+<br>
 
+<font size="8"> **Twitter**: [RebeccaWooldr14](https://twitter.com/RebeccaWooldr14) </font>
+
+<br>
+<br>
+
+<font size="8"> **Github**: [Rebecca-Wooldridge](https://github.com/Rebecca-Wooldridge) </font>
