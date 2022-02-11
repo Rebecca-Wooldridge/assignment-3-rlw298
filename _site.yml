@@ -1,6 +1,6 @@
 name: "our-website"
 navbar:
-  title: "Our Collaborative Website"
+  title: "REBECCA WOOLDRIDGE"
   left:
     - text: "Home"
       href: index.html
